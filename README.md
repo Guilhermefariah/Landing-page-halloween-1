@@ -2,9 +2,11 @@
   Landing Page: Labu - The Living Pumpkin 🎃
 </h1>
 
-## Descrição
+## Sobre o Projeto
 
-Este é um projeto de landing page desenvolvido com HTML e CSS. A página é focada em responsividade e animações suaves, proporcionando uma experiência de usuário agradável e adaptável em diversos dispositivos. O design inclui elementos interativos e visuais que enriquecem a interação do usuário.
+"Labu - The Living Pumpkin" é uma landing page desenvolvida com foco em responsividade e animações suaves, proporcionando uma experiência de usuário imersiva e adaptável a qualquer dispositivo, seja desktop ou móvel. O design moderno e interativo foi cuidadosamente criado para capturar a atenção do usuário, utilizando elementos visuais que enriquecem a navegação.
+
+![Screen result](assets/Landing-page-halloween-1.jpeg)
 
 ## Funcionalidades
 
@@ -18,4 +20,24 @@ Este é um projeto de landing page desenvolvido com HTML e CSS. A página é foc
 - **CSS3**: Estilização e animações.
 - **Google Fonts**: Fonte Poppins.
 
+### Clone o repositório
+
+```sh
+git clone https://github.com/LucasSouza0101/Landing-page-halloween-1.git
+```
+
+### Diretório do projeto
+
+```sh
+cd Landing-page-halloween-1
+```
+
+## Contribuindo
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request para melhorias, correções ou novas funcionalidades.
+
+## Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+```sh
 Feito com ❤️ por Lucas.
+```
